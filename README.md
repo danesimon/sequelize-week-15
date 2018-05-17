@@ -1,0 +1,1 @@
+# sequelize-week-15
